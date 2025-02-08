@@ -1,0 +1,4 @@
+lidl|descriere|22.03.2025|1
+test1|sarcina de test|10.12.2025|1
+rest 6 |data valida|01.12.2025|0
+dd|dd|29.02.2024|0

@@ -1,0 +1,7 @@
+﻿  Main.cpp
+  task.cpp
+C:\Users\popda\OneDrive - Universitatea Politehnica Timisoara\ToDoListProject\ToDoListProject\task.cpp(21,22): warning C4566: character represented by universal-character-name '\u2714' cannot be represented in the current code page (1252)
+  todolist.cpp
+C:\Users\popda\OneDrive - Universitatea Politehnica Timisoara\ToDoListProject\ToDoListProject\todolist.cpp(82,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  ToDoListProject.vcxproj -> C:\Users\popda\OneDrive - Universitatea Politehnica Timisoara\ToDoListProject\x64\Debug\ToDoListProject.exe
