@@ -35,12 +35,12 @@ A simple command-line task manager written in **C++** that allows users to creat
 📂 ToDoListProject ├── 📄 main.cpp # User interface and main menu ├── 📄 task.h/cpp # Task class for task management ├── 📄 todolist.h/cpp # ToDoList class for handling task lists ├── 📄 tasks.txt # File where tasks are stored
 
 ## 🚀 How to Use?
-1. **Clone the repository:**
+**Clone the repository:**
 
 🛠 Technologies Used
-C++ (OOP)
-STL (vector, fstream, map)
-File-based persistent storage
+- C++ (OOP)
+- STL (vector, fstream, map)
+- File-based persistent storage
 
 👨‍💻 Author
 Developed by Pop Darius, Student
